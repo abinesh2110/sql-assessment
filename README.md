@@ -28,8 +28,7 @@ The database schema includes three tables: `employees`, `departments`, and `sala
 ### a. Query to Find All Employees Who Have Been Hired in the Last Year
 
 ![Query Result - Hired in Last Year](docs/question_1.png)
-[fjj
-]()
+
 ### b. Query to Calculate the Total Salary Expenditure for Each Department
 
 ![Query Result - Total Salary Expenditure](docs/qustion_2.png)
